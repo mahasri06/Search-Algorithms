@@ -116,7 +116,7 @@ else:
 ```
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
-![Screenshot 2024-04-16 082725](https://github.com/mahasri06/Search-Algorithms/assets/139841897/3bcab7e6-fbeb-4f2e-828e-2392a7b1af15)
+![Screenshot 2024-04-16 083419](https://github.com/mahasri06/Search-Algorithms/assets/139841897/836f25f2-c94d-43b1-b2b7-c9886963a62b)
 
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
